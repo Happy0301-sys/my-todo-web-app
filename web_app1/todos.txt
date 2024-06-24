@@ -1,0 +1,7 @@
+Dog
+Peacock
+Lion
+Bat
+Cat
+Vulture
+Elephant
